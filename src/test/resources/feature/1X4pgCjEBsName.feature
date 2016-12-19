@@ -2,6 +2,19 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
+@SC_51269 @tag1 @tag2 @tag3
+Scenario Outline: 2GtJhSrgDTName
+Description scenario yeah!
+Given first
+When second
+Then last <arg1> <arg2>
+
+Examples: 9vqhYELIKSTable
+Table description yeah!
+|arg1|arg2|
+|123|456|
+|123|456|
+
 @SC_42916 @AWSX @JI4M @S9TG
 Scenario Outline: j4EP3faXASName
 j7w6exY8EoScenarioDescription
