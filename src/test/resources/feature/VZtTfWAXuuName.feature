@@ -2,15 +2,15 @@
 Feature: JykcacrSD3Name
 Check that story can be created.
 
-@SC_168378 @XWBG @A2GW @OHA7
-Scenario Outline: eeQRZ4ZMZSName
-FNOwTKqaQtScenarioDescription
-Given a89LdlCBR9Step
-When hcFKhw3gpEStep
-Then kcxpyroyP4Step <arg1> <arg2>
+@SC_168378 @SYM6 @LNPO @HDZA
+Scenario Outline: qmjoOYHjApName
+d6HFmepYOiScenarioDescription
+Given aIHQId95YSStep
+When YBdt4f7SYZStep
+Then KEpNdh6zbSStep <arg1> <arg2>
 
-Examples: IcKiITWTPxTable
-9iwIqBC8N6TableDescription
+Examples: d2DPV2rX9uTable
+DnRaWWK408TableDescription
 |arg1|arg2|
-|DVUP|3GXH|
-|DVUP|3GXH|
+|OR4U|7AZ9|
+|OR4U|7AZ9|
