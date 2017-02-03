@@ -2,19 +2,18 @@
 Feature: BVCyD0SmNdName
 Check that story can be created.
 
-@SC_97249 @KZO3 @DTCF @VYYG
-Scenario Outline: 8vYI3KqJVRName
-aIXRzrJzs2ScenarioDescription
-Given 3Fi9PIvssFStep
-When UlgoWWsE4HStep
-Then npwtgCAoHvStep <arg1> <arg2>
+@SC_78409 @KHAD @BUFG @DFGZ
+Scenario Outline: Y6uXPrhb6uName
+YBPbvf4hvQScenarioDescription
+Given YKBTsYBGCtStep
+When eIKkYRegBlStep
+Then DUnXcf65PrStep <arg1> <arg2>
 
-Examples: 1QbDHDue4GTable
-x7Dt9tsk9sTableDescription
+Examples: ZzKyt8F90fTable
+7YLvdMcPDnTableDescription
 |arg1|arg2|
-|B4VD|VOB6|
-|B4VD|VOB6|
-
+|92ZI|CEPR|
+|92ZI|CEPR|
 
 @SC_90874 @KBOQ @LLIC @F6OC
 Scenario Outline: 3gAFXrI3gXName
@@ -72,62 +71,6 @@ IpwDyWRvrtTableDescription
 |PDGN|FQFI|
 
 
-@SC_78409 @WGOM @AK12 @OBVG
-Scenario Outline: 4y41QbfvCnName
-5Lm6HFE4knScenarioDescription
-Given 3oU8EGgIofStep
-When FdYDOXYewwStep
-Then eg1EERGa1bStep <arg1> <arg2>
-
-Examples: WESU3r3qNaTable
-UlJHvOdbzqTableDescription
-|arg1|arg2|
-|0RA7|VRJ2|
-|0RA7|VRJ2|
-
-
-@SC_174808 @BHLN @JOG8 @9O4W
-Scenario Outline: 6w28iseGcSName
-hj6ZyRj9aEScenarioDescription
-Given OcI9cG0O4iStep
-When dcCLS0w69YStep
-Then RDpuDgUeXOStep <arg1> <arg2>
-
-Examples: Rfz1hU1WbCTable
-ckpKyMPiSYTableDescription
-|arg1|arg2|
-|ZFYS|A41O|
-|ZFYS|A41O|
-
-
-@SC_174807 @N0HG @TNKP @JRXP
-Scenario Outline: FIppWSwuzbName
-II7KYF0XZiScenarioDescription
-Given OHi1oiyry4Step
-When TOCPH0NQelStep
-Then ISFLEh5J1TStep <arg1> <arg2>
-
-Examples: Tb5AFrK4lfTable
-rvFO9G0xJzTableDescription
-|arg1|arg2|
-|WBUR|OA7H|
-|WBUR|OA7H|
-
-
-@SC_161480 @1VHT @W3GC @9XQN
-Scenario Outline: hnVtntrPr7Name
-bicXoHxHVzScenarioDescription
-Given 1HYIMEaWVhStep
-When hhg9SEqfbFStep
-Then ntB0barxRVStep <arg1> <arg2>
-
-Examples: mXszvjmLcRTable
-FTfXWOSmjzTableDescription
-|arg1|arg2|
-|OEYA|GT7D|
-|OEYA|GT7D|
-
-
 @SC_156548 @NR2L @NIMC @J41L
 Scenario Outline: H8WTJxWJewName
 IBsPu55XUTScenarioDescription
@@ -154,6 +97,34 @@ vMyMFfp1E5TableDescription
 |arg1|arg2|
 |YFTY|XIW5|
 |YFTY|XIW5|
+
+
+@SC_97249 @KZO3 @DTCF @VYYG
+Scenario Outline: 8vYI3KqJVRName
+aIXRzrJzs2ScenarioDescription
+Given 3Fi9PIvssFStep
+When UlgoWWsE4HStep
+Then npwtgCAoHvStep <arg1> <arg2>
+
+Examples: 1QbDHDue4GTable
+x7Dt9tsk9sTableDescription
+|arg1|arg2|
+|B4VD|VOB6|
+|B4VD|VOB6|
+
+
+@SC_186820 @RQEU @LPTA @CEIJ
+Scenario Outline: O7uXYgni5ZName
+qb3AdoTCJzScenarioDescription
+Given AhMLKfw8kCStep
+When 0JQbOXc3lPStep
+Then cIwf58o4kNStep <arg1> <arg2>
+
+Examples: S6qqAtyLtETable
+uJc0uKm6UXTableDescription
+|arg1|arg2|
+|M0OU|83C0|
+|M0OU|83C0|
 
 
 @SC_184299 @0YBY @IX4H @OVTK
@@ -268,6 +239,34 @@ mKq3rHNuzmTableDescription
 |COJG|BEGV|
 
 
+@SC_174808 @BHLN @JOG8 @9O4W
+Scenario Outline: 6w28iseGcSName
+hj6ZyRj9aEScenarioDescription
+Given OcI9cG0O4iStep
+When dcCLS0w69YStep
+Then RDpuDgUeXOStep <arg1> <arg2>
+
+Examples: Rfz1hU1WbCTable
+ckpKyMPiSYTableDescription
+|arg1|arg2|
+|ZFYS|A41O|
+|ZFYS|A41O|
+
+
+@SC_174807 @N0HG @TNKP @JRXP
+Scenario Outline: FIppWSwuzbName
+II7KYF0XZiScenarioDescription
+Given OHi1oiyry4Step
+When TOCPH0NQelStep
+Then ISFLEh5J1TStep <arg1> <arg2>
+
+Examples: Tb5AFrK4lfTable
+rvFO9G0xJzTableDescription
+|arg1|arg2|
+|WBUR|OA7H|
+|WBUR|OA7H|
+
+
 @SC_173505 @1OFL @JIEC @BCT1
 Scenario Outline: GcybekXFvAName
 awny70u0JfScenarioDescription
@@ -338,6 +337,20 @@ loxDY4HZTITableDescription
 |CP75|YP0E|
 
 
+@SC_161480 @1VHT @W3GC @9XQN
+Scenario Outline: hnVtntrPr7Name
+bicXoHxHVzScenarioDescription
+Given 1HYIMEaWVhStep
+When hhg9SEqfbFStep
+Then ntB0barxRVStep <arg1> <arg2>
+
+Examples: mXszvjmLcRTable
+FTfXWOSmjzTableDescription
+|arg1|arg2|
+|OEYA|GT7D|
+|OEYA|GT7D|
+
+
 @SC_152783 @ERAB @XEZA @RSCE
 Scenario Outline: styFkM6EzTName
 G7Pv1VZJaaScenarioDescription
@@ -350,20 +363,6 @@ HB7TozO0hyTableDescription
 |arg1|arg2|
 |ACYT|PLIK|
 |ACYT|PLIK|
-
-
-@SC_186820 @RQEU @LPTA @CEIJ
-Scenario Outline: O7uXYgni5ZName
-qb3AdoTCJzScenarioDescription
-Given AhMLKfw8kCStep
-When 0JQbOXc3lPStep
-Then cIwf58o4kNStep <arg1> <arg2>
-
-Examples: S6qqAtyLtETable
-uJc0uKm6UXTableDescription
-|arg1|arg2|
-|M0OU|83C0|
-|M0OU|83C0|
 
 
 @SC_186821 @VHH6 @JPE2 @MTJL
