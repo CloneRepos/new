@@ -1,8 +1,8 @@
-@ST_6250 @tag1 @tag2 @tag3
+@ST_39354 @tag1 @tag2 @tag3
 Feature: pvzcnEjCVLName
 Check that story can be created.
 
-@SC_190646 @tag4 @tag5 @tag6
+@SC_195747 @tag4 @tag5 @tag6
 Scenario Outline: VoCXPY3lySName
 Description scenario yeah!
 Given first
@@ -15,7 +15,8 @@ Table description yeah!
 |123|456|
 |123|456|
 
-@SC_168373 @XWBG @A2GW @OHA7
+
+@SC_195748 @XWBG @A2GW @OHA7
 Scenario Outline: tZnBMOtaisName
 FNOwTKqaQtScenarioDescription
 Then kcxpyroyP4Step <arg1> <arg2>
@@ -29,7 +30,7 @@ Examples: XxMcEmYjvZTable
 |DVUP|3GXH|
 
 
-@SC_168376 @tag1 @tag2 @tag3
+@SC_195749 @tag1 @tag2 @tag3
 Scenario Outline: w7FY2P12CZName
 Description scenario yeah!
 Given first
@@ -43,7 +44,7 @@ Table description yeah!
 |123|456|
 
 
-@SC_169980 @tag1 @tag2 @tag3
+@SC_195750 @tag1 @tag2 @tag3
 Scenario Outline: Zo7ykYl35lName
 Description scenario yeah!
 Given first

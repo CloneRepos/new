@@ -1,8 +1,8 @@
-@ST_6263 @tag1 @tag2 @tag3
+@ST_39367 @tag1 @tag2 @tag3
 Feature: JykcacrSD3Name
 Check that story can be created.
 
-@SC_190645 @tag1 @tag2 @tag3
+@SC_195781 @tag1 @tag2 @tag3
 Scenario Outline: 31XlbFYASkName
 Description scenario yeah!
 Given first
@@ -15,7 +15,8 @@ Table description yeah!
 |123|456|
 |123|456|
 
-@SC_168378 @SYM6 @LNPO @HDZA
+
+@SC_195782 @SYM6 @LNPO @HDZA
 Scenario Outline: qmjoOYHjApName
 d6HFmepYOiScenarioDescription
 Given aIHQId95YSStep

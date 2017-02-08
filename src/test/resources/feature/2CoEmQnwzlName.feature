@@ -1,8 +1,8 @@
-@ST_6240 @tag1 @tag2 @tag3
+@ST_39344 @tag1 @tag2 @tag3
 Feature: kWDAKpNNbQName
 Check that story can be created.
 
-@SC_45221 @BVGT @PUBM @ZYR7
+@SC_195746 @BVGT @PUBM @ZYR7
 Scenario Outline: g6sJystbKgName
 vfskWzoJK7ScenarioDescription
 Given VvI4iBdVpCStep
